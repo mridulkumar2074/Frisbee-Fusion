@@ -25,8 +25,5 @@ Frisbee Fusion introduces a unique gaming experience by transforming a simple Fr
 - Expansion to multi-hand and full-body tracking for more interactive gameplay.  
 - Broader application scope, including robotics, virtual reality, and assistive technologies.  
 
-## How to Run  
-1. Clone this repository.  
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
+
+
